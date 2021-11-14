@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Header from "./Header";
 
 function Banner() {
   return (
